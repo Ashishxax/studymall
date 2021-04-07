@@ -1,0 +1,43 @@
+        #hero {
+            display: block;
+        }
+        
+        #content-mobile {
+            display: none;
+        }
+        
+        #header .logo img {
+            max-height: 67px;
+        }
+        
+        .mobile {
+            display: none;
+        }
+        
+        @media screen and (min-width: 800px) {
+            .about_us {
+                margin-left: 369px;
+            }
+        }
+        
+        @media (max-width: 1000px) {
+            #hero {
+                display: none;
+            }
+            #content-mobile {
+                display: block;
+            }
+            .mobile {
+                display: block;
+            }
+            .imgdiv {
+                width: 100%;
+            }
+            .mycaro img {
+                width: 100%;
+            }
+            .img {
+                border: 0;
+                vertical-align: middle;
+            }
+        }

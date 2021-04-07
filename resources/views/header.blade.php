@@ -28,9 +28,19 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/exam.css" rel="stylesheet">
 
 
 </head>
+<style>
+    .testimonial-img {
+        transition: -webkit-transform 0.25s ease;
+    }
+
+    .testimonial-img:active {
+        -webkit-transform: scale(2);
+    }
+</style>
 
 <body>
 
@@ -39,25 +49,44 @@
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope d-flex align-items-center"><a
-                        href="mailto:contact@example.com">studymall@gmail.com</a></i>
-                <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 810 967 8505</span></i>
+                        href="mailto:studymallapps@gmail.com">studymallapps@gmail.com</a></i>
+                <span><a href="tel:950 444 6940"><i class="bi bi-telephone d-flex align-items-center ms-4">&nbsp;Call
+                            Now</i></a></span>
             </div>
-            <div class="social-links d-none d-md-flex align-items-center">
-                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+            &emsp;&emsp;&emsp;&emsp;
+            <div class="social-links d-md-flex align-items-center">
+                <a href="https://twitter.com/MallStudy?s=08" target="_blank" class="twitter"><i
+                        class="bi bi-twitter"></i></a>
+                <a href="https://wa.me/message/6KCCZJX35DBBE1" target="_blank" class="whatsapp"><i
+                        class="bi bi-whatsapp"></i></a>
+                <a href="https://www.instagram.com/p/CNM8M5hBJCh/?igshid=w1csou7dlal4" target="_blank"
+                    class="instagram"><i class="bi bi-instagram"></i></a>
+                <a href="https://t.me/studymallapp" class="telegram" target="_blank"><i class="bi bi-telegram"></i></a>
             </div>
         </div>
     </section>
+
+    <style>
+        @media (max-width: 1000px) {
+
+            .imgdiv {
+                height: 91vh !important;
+                width: 99% !important;
+            }
+
+            .footer-mobile {
+                margin-left: 9px !important;
+            }
+
+        }
+    </style>
 
     <!-- ======= Header ======= -->
     <header id="header" class="d-flex align-items-center">
         <div class="container d-flex justify-content-between align-items-center">
 
             <div class="logo">
-                <h1><a href="/">Study Mall</a></h1>
-
+                <img src="assets/img/logo.png">&emsp;&emsp; <strong><a href="/">Study Mall</a></strong>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -68,11 +97,12 @@
                     <li class="dropdown"><a href="#"><span>Faculty</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="/team">Competitive Exams</a></li>
-                            <li class="dropdown"><a href="/iit-neet-11th-12th"><span>IIT-NEET 11th 12th</span></a>
+                            <li class=""><a href="/iit-neet-11th-12th" id="iit"><span>IIT-NEET 11th
+                                        12th</span></a>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="/">Contact</a></li>
+                    <li><a href="contact">Contact</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->

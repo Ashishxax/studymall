@@ -21,17 +21,14 @@
 
             <div class="section-title">
                 <h2>Faculty for IIT-JEE NEET & 11th 12th</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-                    consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                    fugiat sit
-                    in iste officiis commodi quidem hic quas.</p>
+
             </div>
 
             <div class="row">
 
                 <div class="col-lg-6">
                     <div class="testimonial-item">
-                        <img src="assets/img/iit-jee-neet/RK Suman sirMath.jpeg" style="margin-top: -16px;"
+                        <img src="assets/img/iit-jee-neet/RK Suman sirMath.jpeg" style="margin-top: -36px;width: 115px;"
                             class="testimonial-img" alt="">
                         <h3>RK Suman</h3>
                         <p>
@@ -44,8 +41,8 @@
 
                 <div class="col-lg-6">
                     <div class="testimonial-item mt-4 mt-lg-0">
-                        <img src="assets/img/iit-jee-neet/Rahul sirChemistry.jpeg" style="margin-top: -16px;"
-                            class="testimonial-img" alt="">
+                        <img src="assets/img/iit-jee-neet/Rahul sirChemistry.jpeg"
+                            style="margin-top: -39px;width: 117px;" class="testimonial-img" alt="">
                         <h3>Rahul Sir</h3>
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -58,7 +55,7 @@
                 <div class="col-lg-6">
                     <div class="testimonial-item mt-4">
                         <img src="assets/img/iit-jee-neet/HKVerma sirPhysics.jpeg"
-                            style="width: 57px;margin-top: -11px;" class="testimonial-img" alt="">
+                            style="width: 83px;margin-top: -37px;" class="testimonial-img" alt="">
                         <h3>HK Verma</h3>
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -70,7 +67,7 @@
 
                 <div class="col-lg-6">
                     <div class="testimonial-item mt-4">
-                        <img src="assets/img/iit-jee-neet/PrabhatSirBiology.jpeg" style="margin-top: -11px;"
+                        <img src="assets/img/iit-jee-neet/PrabhatSirBiology.jpeg" style="margin-top: -35px;"
                             class="testimonial-img" alt="">
                         <h3>Prabhat Sir</h3>
                         <p>
