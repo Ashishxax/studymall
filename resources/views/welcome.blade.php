@@ -95,7 +95,7 @@
     <div class="container">
       <br>
       <div class="row">
-        <div class="col-lg-6 mt-6 mt-lg-0">
+        <div class="col-lg-4 mt-12 mt-lg-0">
           <a href="/courses">
             <div class="icon-box">
               <i class="bi bi-bar-chart"></i>
@@ -103,7 +103,18 @@
             </div>
           </a>
         </div>
-        <div class="col-lg-6 mt-6 mt-lg-0">
+        <div class="col-lg-4 mt-12 mt-lg-0">
+          <br class="mobile" />
+          <a href="https://www.youtube.com/results?search_query=studymall">
+            <div class="icon-box">
+              <i class="bi bi-binoculars"></i>
+              <h3>Youtube</h3>
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 mt-12 mt-lg-0">
+          <br class="mobile" />
           <br class="mobile" />
           <a href="/team">
             <div class="icon-box">
@@ -170,7 +181,7 @@
   </section><!-- End Counts Section -->
 
   <!-- ======= Services Section ======= -->
-  <section id="services" class="services">
+  {{-- <section id="services" class="services">
     <div class="container">
 
       <div class="row">
@@ -207,15 +218,15 @@
       </div>
 
     </div>
-  </section><!-- End Services Section -->
+  </section><!-- End Services Section --> --}}
 
   <!-- ======= Clients Section ======= -->
   <section id="clients" class="clients">
     <div class="container">
 
-      <div class="section-title">
+      {{-- <div class="section-title">
         <h2>Students all over from India</h2>
-      </div>
+      </div> --}}
 
     </div>
   </section><!-- End Clients Section -->

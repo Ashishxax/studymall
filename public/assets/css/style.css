@@ -899,18 +899,19 @@ section {
 
 .testimonials .testimonial-item {
     box-sizing: content-box;
-    padding: 40px;
+    border-radius: 18px;
+    padding: 35px;
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
     position: relative;
     background: #fff;
 }
 
 .testimonials .testimonial-item .testimonial-img {
-    width: 140px;
-    border-radius: 50px;
+    width: 166px;
+    border-radius: 20px;
     border: 6px solid #fff;
     float: left;
-    margin: 0 10px 0 0;
+    margin: 0 22px 0 0;
 }
 
 .testimonials .testimonial-item h3 {
@@ -1357,8 +1358,9 @@ section {
 
 @media (max-width: 420px) {
     .pricing .box {
-        max-width: 100%;
-        margin: 0 auto 30px auto;
+        max-width: 81%;
+        margin: -3px 28px 25px auto;
+        border-radius: 24px;
     }
 }
 
@@ -2155,12 +2157,12 @@ section {
 }
 
 #footer .footer-top .social-links a {
-    font-size: 18px;
+    font-size: 32px;
     display: inline-block;
-    background: #545454;
+    /* background: #545454; */
     color: #fff;
-    line-height: 1;
-    padding: 8px 0;
+    line-height: 0;
+    padding: 11px 24px;
     margin-right: 4px;
     border-radius: 50%;
     text-align: center;
@@ -2170,7 +2172,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-    background: #e96b56;
+    /* background: #e96b56; */
     color: #fff;
     text-decoration: none;
 }

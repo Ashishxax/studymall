@@ -48,13 +48,15 @@
     <section id="topbar" class="d-flex align-items-center">
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
-                <i class="bi bi-envelope d-flex align-items-center"><a
-                        href="mailto:studymallapps@gmail.com">studymallapps@gmail.com</a></i>
+                {{-- <i class="bi bi-envelope d-flex align-items-center"><a
+                        href="mailto:studymallapps@gmail.com">studymallapps@gmail.com</a></i> --}}
+                <a href="https://wa.me/message/6KCCZJX35DBBE1" target="_blank" class="whatsapp"><i
+                        class="bi bi-whatsapp"></i>&nbsp;&nbsp;Whatsapp</a>
                 <span><a href="tel:950 444 6940"><i class="bi bi-telephone d-flex align-items-center ms-4">&nbsp;Call
                             Now</i></a></span>
             </div>
-            &emsp;&emsp;&emsp;&emsp;
-            <div class="social-links d-md-flex align-items-center">
+            {{-- &emsp;&emsp;&emsp;&emsp; --}}
+            {{-- <div class="social-links d-md-flex align-items-center">
                 <a href="https://twitter.com/MallStudy?s=08" target="_blank" class="twitter"><i
                         class="bi bi-twitter"></i></a>
                 <a href="https://wa.me/message/6KCCZJX35DBBE1" target="_blank" class="whatsapp"><i
@@ -62,7 +64,7 @@
                 <a href="https://www.instagram.com/p/CNM8M5hBJCh/?igshid=w1csou7dlal4" target="_blank"
                     class="instagram"><i class="bi bi-instagram"></i></a>
                 <a href="https://t.me/studymallapp" class="telegram" target="_blank"><i class="bi bi-telegram"></i></a>
-            </div>
+            </div> --}}
         </div>
     </section>
 

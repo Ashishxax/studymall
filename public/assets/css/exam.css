@@ -10,22 +10,73 @@
             max-height: 67px;
         }
         
+        div.course-airforce {
+            content: url("../../assets/img/courses/airforce.png");
+        }
+        
+        div.course-Banking {
+            content: url("../../assets/img/courses/Banking.png");
+        }
+        
+        div.course-bpsc {
+            content: url("../../assets/img/courses/bpsc.png");
+        }
+        
+        div.course-cet {
+            content: url("../../assets/img/courses/cet.png");
+        }
+        
+        div.course-ctet {
+            content: url("../../assets/img/courses/ctet.png");
+        }
+        
+        div.course-iit {
+            content: url("../../assets/img/courses/iit.png");
+        }
+        
+        div.course-navy {
+            content: url("../../assets/img/courses/navy.png");
+        }
+        
+        div.course-nda {
+            content: url("../../assets/img/courses/nda.png");
+        }
+        
+        div.course-neet {
+            content: url("../../assets/img/courses/neet.png");
+        }
+        
+        div.course-police {
+            content: url("../../assets/img/courses/police.png");
+        }
+        
+        div.course-railway {
+            content: url("../../assets/img/courses/Railway.png");
+        }
+        
+        div.course-ssc {
+            content: url("../../assets/img/courses/ssc.png");
+        }
+        
         .mobile {
             display: none;
         }
         
-        @media screen and (min-width: 800px) {
+        @media only screen and (min-width: 600px) {
             .about_us {
                 margin-left: 369px;
             }
         }
         
-        @media (max-width: 1000px) {
+        @media (max-width: 800px) {
             #hero {
                 display: none;
             }
             #content-mobile {
                 display: block;
+            }
+            .member {
+                margin-left: 102px !important;
             }
             .mobile {
                 display: block;
@@ -39,5 +90,8 @@
             .img {
                 border: 0;
                 vertical-align: middle;
+            }
+            .testimonials .testimonial-item .testimonial-img {
+                margin: 0 134px 0 0 !important;
             }
         }

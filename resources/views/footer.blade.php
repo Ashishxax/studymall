@@ -37,22 +37,25 @@
                         India <br><br>
                         <strong>Phone:</strong> <a href="tel:950 444 6940">&emsp;Call
                             Now</i></a><br>
-                        <strong>Email:</strong> Chandan21fff@gmail.com<br>
+                        <strong>Email:</strong> studymallapps@gmail.com<br>
                     </p>
 
-                    <div class="social-links d-md-flex align-items-center">
-                        <a href="https://twitter.com/MallStudy?s=08" target="_blank" class="twitter"><i
-                                class="bi bi-twitter"></i></a>
-                        <a href="https://wa.me/message/6KCCZJX35DBBE1" target="_blank" class="whatsapp"><i
-                                class="bi bi-whatsapp"></i></a>
-                        <a href="https://www.instagram.com/p/CNM8M5hBJCh/?igshid=w1csou7dlal4" target="_blank"
-                            class="instagram"><i class="bi bi-instagram"></i></a>
-                        <a href="https://t.me/studymallapp" class="telegram" target="_blank"><i
-                                class="bi bi-telegram"></i></a>
+                    <div class="social_icons" style="margin-left: -14px;">
+                        <div class="social-links d-md-flex align-items-center">
+                            <a href="https://twitter.com/MallStudy?s=08" target="_blank" class="twitter"><i
+                                    class="bi bi-twitter socia"></i></a>
+                            <a href="https://www.youtube.com/results?search_query=studymall" target="_blank"
+                                class="youtube socia"><i class="bi bi-youtube"></i></a>
+                            <a href="https://www.instagram.com/p/CNM8M5hBJCh/?igshid=w1csou7dlal4" target="_blank"
+                                class="instagram socia"><i class="bi bi-instagram"></i></a>
+                            <a href="https://t.me/studymallapp" class="telegram" target="_blank"><i
+                                    class="bi bi-telegram socia"></i></a>
+                            <a href="https://www.facebook.com/STUDY-MALL-100998142107603/" class="facebook"
+                                target="_blank"><i class="bi bi-facebook socia"></i></a>
+                        </div>
                     </div>
 
                 </div>
-
 
 
             </div>

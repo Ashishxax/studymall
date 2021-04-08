@@ -25,80 +25,83 @@
 
       <div class="row">
         <div class="col-lg-6">
-          <div class="testimonial-item mt-4 ">
-            <img src="assets/img/team/SP Yadav Exp 5 yearsCurrent affairs.jpeg" style="margin-top:-24px;width: 128px;"
-              class="testimonial-img " alt="">
-            <h3>SP Yadav</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                5 Year of Experience in Current Affairs
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
+
+          <div class="testimonial-item mt-4">
+            <img src="assets/img/team-new/shashank.png" class="testimonial-img" alt="">
+            <h3>Shashank Sir</h3>
+            <span>10 Years of Experience in History</span>
+            {{-- <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              10 Years of Experience in History
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p> --}}
           </div>
+
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4 ">
-            <img src="assets/img/team/kkroy.png" style="margin-top: -73px; width:94px;" class="testimonial-img" alt="">
+            <img src="assets/img/team-new/kkroy.png" class="testimonial-img" alt="">
             <h3>K.K. Roy (Delhi)</h3>
-            <p>
+            <span>Maths</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Maths
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/Ashutosh Gupta-Delhi-english.jpeg" style="margin-top: -34px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/Ashutosh Gupta.png" class="testimonial-img" alt="">
             <h3>Ashutosh Gupta</h3>
-            <p>
+            <span>English</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               English
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/ashutosh-sir-25year-exp-math.jpeg" style="margin-top: -34px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/Ashutosh Sir.png" class="testimonial-img" alt="">
             <h3>Ashutosh Sir</h3>
-            <p>
+            <span>25 Years of Experience in Maths</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               25 Years of Experience in Maths
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/Azmeri Sir-12-years-Geography.jpeg" style="margin-top: -34px;"
-              class="testimonial-img" alt="">
-            <h3>Azmeri Sir</h3>
-            <p>
+            <img src="assets/img/team-new/Azmeri Sir.png" class="testimonial-img" alt="">
+            <h3>Azmeri Sir </h3>
+            <span>12 Years of Experience in Geography</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               12 Years of Experience in Geography
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/Habib Alam Exp 20 years Chemistry and Biology.jpeg"
-              style="width: 159px;margin-top: -34px;" class="testimonial-img" alt="">
+            <img src="assets/img/team-new/Habib Alam.png" class="testimonial-img" alt="">
             <h3>Habib Alam</h3>
-            <p>
+            <span>20 Years of Experience in Chemistry & Biology</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               20 Years of Experience in Chemistry & Biology
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
@@ -107,79 +110,79 @@
         <div class="col-lg-6">
           <br>
           <div class="testimonial-item">
-            <img src="assets/img/team/K.N. Sharma (Exp.16 years)Polity.jpeg" style="margin-top: -34px;width:97px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/K.N Sharma.png" class="testimonial-img" alt="">
             <h3>K.N Sharma</h3>
-            <p>
+            <span>16 Years of Experience in Polity</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               16 Years of Experience in Polity
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4 ">
-            <img src="assets/img/team/Karan sir Exp 8 yearsPolity.jpeg" style="margin-top:-36px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/Karan Sir.png" class="testimonial-img" alt="">
             <h3>Karan Sir</h4>
-              <p>
+              <span>8 Year of Experience in Polity</span>
+              {{-- <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                 8 Year of Experience in Polity
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
+              </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/Keshav sir Exp 7 yearsPhysics.jpeg" style="margin-top:-43px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/Keshav Sir.png" class="testimonial-img" alt="">
             <h3>Keshav Sir</h3>
-            <p>
+            <span>7 Year of Experience in Physics</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               7 Year of Experience in Physics
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/Kunal Guru-8yers-experience-Reasoning.jpg" style="width:123px;margin-top: -40px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/kunalGuru.png" class="testimonial-img" alt="">
             <h3>Kunal Guru</h3>
-            <p>
+            <span>8 Years of Experience in Reasoning</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               8 Years of Experience in Reasoning
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/Pardeep Sir-Exp-10-years-History.jpeg" style="width:132px;margin-top: -37px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/Pradeep Sir.png" class="testimonial-img" alt="">
             <h3>Pradeep Sir</h3>
-            <p>
+            <span>12 Years of Experience in History</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               12 Years of Experience in History
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
         <div class="col-lg-6">
           <div class="testimonial-item mt-4">
-            <img src="assets/img/team/R.K.Chaturvedi-Exp.15-years-History.jpeg" style="width:122px;margin-top: -40px;"
-              class="testimonial-img" alt="">
+            <img src="assets/img/team-new/R.K.Chaturvedi.png" class="testimonial-img" alt="">
             <h3>R.K.Chaturvedi</h3>
-            <p>
+            <span>15 Years of Experience in History</span>
+            {{-- <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               15 Years of Experience in History
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+            </p> --}}
           </div>
         </div>
 
@@ -188,21 +191,17 @@
       <div class="row">
 
         <div class="col-lg-6">
-          <div class="testimonial-item">
-            <img src="assets/img/team/Shashank Sir-Exp.10 years-History.jpeg" style="margin-top: -40px;    width: 111px;
-            " class="testimonial-img" alt="">
-            <h3>Shashank Sir</h3>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              10 Years of Experience in History
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+          <div class="testimonial-item mt-4 ">
+            <img src="assets/img/team-new/SP Yadav.png" class="testimonial-img " alt="">
+            <h3>SP Yadav</h4>
+              {{-- <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                5 Year of Experience in Current Affairs
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p> --}}
+              <span>5 Year of Experience in Current Affairs</span>
           </div>
         </div>
-
-
-
-
 
       </div>
 
